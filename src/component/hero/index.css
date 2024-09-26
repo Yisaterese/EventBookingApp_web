@@ -1,0 +1,9 @@
+.bg-hero-overlay{
+    background-image:url('../../assets/hero-bg-overlay.png');
+    /*background: black;*/
+}
+
+.bg-hero-underlay{
+    background-image:url('../../assets/hero-bg-underlay.png');
+    height: 200px;
+}
